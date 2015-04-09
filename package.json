@@ -1,0 +1,12 @@
+{
+  "name": "fis-preprocessor-inline-deps",
+  "version": "0.0.0",
+  "description": "let html inline inherit dependencies",
+  "main": "index.js",
+  "keywords": ["fis", "autoload"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hefangshi@baidu.com",
+  "license": "BSD"
+}
