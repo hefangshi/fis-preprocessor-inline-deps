@@ -1,5 +1,7 @@
 # fis-preprocessor-inline-deps
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/hefangshi/fis-preprocessor-inline-deps.svg)](https://greenkeeper.io/)
+
 扩展FIS的html inline能力
 
 ## 功能
